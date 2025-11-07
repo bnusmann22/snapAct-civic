@@ -1,6 +1,6 @@
 # SnapAct: Civic Accountability Platform
 
-![Banner](https://via.placeholder.com/1200x400?text=SnapAct+Hero+Image)  
+![Banner]([https://via.placeholder.com/1200x400?text=SnapAct+Hero+Image](https://assets.grok.com/users/fb5f60c9-1d07-4d8f-a8da-c3d00ff276c7/generated/8fb66746-751c-4e20-ba60-a43c023c0b32/image.jpg))  
 
 ## Overview
 SnapAct turns your phone into a civic superpower: Snap a pothole/video, AI classifies (e.g., Roads/High severity), auto-routes to local gov, tracks with agents/escalations. Based on our PRD—empowering citizens in places like Kano.
